@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Senior Software Engineer with **4+ years of experience** in designing, developing, and scaling **backend systems** using **Node.js, MongoDB, and cloud-native microservices architectures**.  
+Senior Software Engineer with **4.8 years of experience** in designing, developing, and scaling **backend systems** using **Node.js, MongoDB, and cloud-native microservices architectures**.  
 I specialize in **REST APIs, real-time systems, distributed services, and AWS deployments**, with hands-on experience across **healthcare, real estate, social media, HRMS, and e-learning platforms**.
 
 I enjoy building **scalable, secure, and high-performance backend systems** and continuously deepening my understanding of **system design and distributed architectures**.
